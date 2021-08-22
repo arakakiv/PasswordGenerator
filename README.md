@@ -1,5 +1,16 @@
 # PasswordGenerator
 
+**The password must follow these rules:**
+
+- Lenght between 5 and 4999 ( 5 < length < 500);
+- No whitespaces.
+
+**Letters:** abcdefghijklmnopqrstuvwxyz
+
+**Numbers:** 0123456789
+
+**Symbols:**
+
 ## RandomGenerator.cs
 
 It's the class that generates **_secure_** random integers. It is used in many parts of the code and is what makes the essence of the project.
