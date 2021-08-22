@@ -9,7 +9,7 @@
 
 **Numbers:** 0123456789
 
-**Symbols:**
+**Symbols:** !"#$%&'()*+,-./:;<=>?@[\]^_{|}~
 
 ## RandomGenerator.cs
 
